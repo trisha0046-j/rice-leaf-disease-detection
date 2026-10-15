@@ -1,0 +1,19 @@
+# Dataset (do not upload raw data / zips)
+*.zip
+RiceLeaf_Dataset/
+Data/
+
+# Trained models
+*.h5
+*.keras
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
